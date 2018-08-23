@@ -5,9 +5,9 @@
 > I plan to talk about
 
 ```
-1.2. Git Commands
-* git status
-* git add
-* git commit
+1.2     Git Commands
+ - git status
+ - git add
+ - git commit
 
 @mechellecarter Does this work for you?
